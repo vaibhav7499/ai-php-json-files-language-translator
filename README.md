@@ -10,7 +10,7 @@ This is an **AI-powered file translator** built for:
 
 - PHP language array files (e.g., Laravel translations)
 - JSON files (chome extension language files etc)
-- All other plain formats (TXT, HTML, XML, etc.)
+- All other formats (PHP, TXT, HTML, XML, etc.)
 
 It uses modern AI models via [OpenRouter API](https://openrouter.ai) to automatically translate files in bulk, with full control over concurrency, batching, retries, and model selection.
 
@@ -21,7 +21,7 @@ It uses modern AI models via [OpenRouter API](https://openrouter.ai) to automati
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/wonchoe/ai-php-json-files-language-translator.git
 cd your-repo
 ```
 
