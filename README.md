@@ -22,7 +22,7 @@ It uses modern AI models via [OpenRouter API](https://openrouter.ai) to automati
 
 ```bash
 git clone https://github.com/wonchoe/ai-php-json-files-language-translator.git
-cd your-repo
+cd ai-php-json-files-language-translator
 ```
 
 ### 2. Build the Docker container (only once)
