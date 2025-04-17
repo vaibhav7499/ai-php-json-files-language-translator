@@ -69,7 +69,7 @@ StartServer.BAT
 
 ## ⚙️ Interface
 
-<img src="./screenshot.jpg" alt="UI Screenshot" width="600">
+<img src="Screenshot.jpg" alt="UI Screenshot" width="600">
 
 Inside the browser you can configure:
 - File type
