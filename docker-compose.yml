@@ -1,0 +1,22 @@
+services:
+  translator:
+    build: .
+    container_name: laravel-translator
+    ports:
+      - "3000:3000"    
+    volumes:
+      - type: bind
+        source: ./input
+        target: /app/input
+      - type: bind
+        source: ./output
+        target: /app/output
+      - type: bind
+        source: ./app
+        target: /app/app
+      - type: bind
+        source: ./public
+        target: /public
+
+    working_dir: /app
+    command: tail -f /dev/null # поки що — просто тримаємо контейнер активним
